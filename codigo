@@ -1,0 +1,71 @@
+preguntas = {
+    "Escalon1": {
+        "Pregunta1": {"pregunta": "¿Quien es el maximo ganador de la historia de la libertadores?"},
+        "Pregunta2": {"pregunta": "Quien es el segundo maximo ganador de la historia de la libertadores?"}
+    },
+    "Escalon2": {
+        "Pregunta1": {"pregunta": "¿Quien es el equipo brasilero que mas veces la gano?"},
+        "Pregunta2": {"pregunta": "Quien es el maximo goleador brasilero de la historia"}
+    },
+    "Escalon3": {
+        "Pregunta1": {"pregunta": "¿Quien fue el primer campeon de la libertadores?"},
+        "Pregunta2": {"pregunta": "¿Quien fue el ultimo campeon de la libertadores (2025)?"}
+    },
+    "Escalon4": {
+        "Pregunta1": {"pregunta": "¿Cuantos mundiales tiene Holanda?"},
+        "Pregunta2": {"pregunta": "¿Cuantas finales jugo Holanda en toda su historia?"}
+    },
+    "Escalon5": {
+        "Pregunta1": {"pregunta": "¿Quien es el maximo ganador de mundiales?"},
+        "Pregunta2": {"pregunta": "¿Quien fue el maximo goleador de los mundiales?"}
+    },
+    "Escalon6": {
+        "Pregunta1": {"pregunta": "¿Quien gano el mundial de 2006?"},
+        "Pregunta2": {"pregunta": "¿Quien fue elegido balon de oro de ese mundial?"}
+    },
+    "Escalon7": {
+        "Pregunta1": {"pregunta": "¿Quien es el equipo Italiano que mas veces la gano?"},
+        "Pregunta2": {"pregunta": "¿Quien es el maximo goleador italiano?"}
+    },
+    "Escalon8": {
+        "Pregunta1": {"pregunta": "¿Quien es el maximo goleador de la historia de la champions?"},
+        "Pregunta2": {"pregunta": "¿En que equipo estaba Cristiano Ronaldo cuando gano la champions en 2008?"}
+    }
+}
+
+respuestas = {
+    "Escalon1": {
+        "Pregunta1": {"respuesta": "Independiente"},
+        "Pregunta2": {"respuesta": "Boca Juniors"}
+    },
+    "Escalon2": {
+        "Pregunta1": {"respuesta": "Sao Paulo"},
+        "Pregunta2": {"respuesta": "Pelé"}
+    },
+    "Escalon3": {
+        "Pregunta1": {"respuesta": "Peñarol"},
+        "Pregunta2": {"respuesta": "Botafogo"}
+    },
+    "Escalon4": {
+        "Pregunta1": {"respuesta": "0"},
+        "Pregunta2": {"respuesta": "3"}
+    },
+    "Escalon5": {
+        "Pregunta1": {"respuesta": "Brasil"},
+        "Pregunta2": {"respuesta": "Miroslav Klose"}
+    },
+    "Escalon6": {
+        "Pregunta1": {"respuesta": "Italia"},
+        "Pregunta2": {"respuesta": "Zinedine Zidane"}
+    },
+    "Escalon7": {
+        "Pregunta1": {"respuesta": "AC Milan"},
+        "Pregunta2": {"respuesta": "Roberto Baggio"}
+    },
+    "Escalon8": {
+        "Pregunta1": {"respuesta": "Cristiano Ronaldo"},
+        "Pregunta2": {"respuesta": "Manchester United"}
+    }
+}
+
+
