@@ -1,38 +1,101 @@
 preguntas = {
     "Escalon1": {
-        "Pregunta1": {"pregunta": "¿Quien es el maximo ganador de la historia de la libertadores?"},
-        "Pregunta2": {"pregunta": "Quien es el segundo maximo ganador de la historia de la libertadores?"}
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo ganador de la historia de la Libertadores?",
+            "opciones": ["A) River Plate", "B) Boca Juniors", "C) Independiente", "D) Peñarol"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el segundo máximo ganador de la historia de la Libertadores?",
+            "opciones": ["A) Boca Juniors", "B) River Plate", "C) Nacional", "D) Flamengo"],
+            "respuesta": "A"
+        }
     },
     "Escalon2": {
-        "Pregunta1": {"pregunta": "¿Quien es el equipo brasilero que mas veces la gano?"},
-        "Pregunta2": {"pregunta": "Quien es el maximo goleador brasilero de la historia"}
+        "Pregunta1": {
+            "pregunta": "¿Qué equipo brasileño ganó más veces la Libertadores?",
+            "opciones": ["A) Santos", "B) Palmeiras", "C) Sao Paulo", "D) Flamengo"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el máximo goleador brasileño de la historia?",
+            "opciones": ["A) Ronaldo", "B) Zico", "C) Pelé", "D) Romário"],
+            "respuesta": "C"
+        }
     },
     "Escalon3": {
-        "Pregunta1": {"pregunta": "¿Quien fue el primer campeon de la libertadores?"},
-        "Pregunta2": {"pregunta": "¿Quien fue el ultimo campeon de la libertadores (2025)?"}
+        "Pregunta1": {
+            "pregunta": "¿Quién fue el primer campeón de la Libertadores?",
+            "opciones": ["A) Santos", "B) Boca Juniors", "C) Peñarol", "D) River Plate"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue el último campeón de la Libertadores (2025)?",
+            "opciones": ["A) River Plate", "B) Fluminense", "C) Botafogo", "D) Palmeiras"],
+            "respuesta": "C"
+        }
     },
     "Escalon4": {
-        "Pregunta1": {"pregunta": "¿Cuantos mundiales tiene Holanda?"},
-        "Pregunta2": {"pregunta": "¿Cuantas finales jugo Holanda en toda su historia?"}
+        "Pregunta1": {
+            "pregunta": "¿Cuántos mundiales tiene Holanda?",
+            "opciones": ["A) 0", "B) 1", "C) 3", "D) 2"],
+            "respuesta": "A"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Cuántas finales jugó Holanda en toda su historia?",
+            "opciones": ["A) 2", "B) 4", "C) 3", "D) 1"],
+            "respuesta": "C"
+        }
     },
-    "Escalon5": {
-        "Pregunta1": {"pregunta": "¿Quien es el maximo ganador de mundiales?"},
-        "Pregunta2": {"pregunta": "¿Quien fue el maximo goleador de los mundiales?"}
+"Escalon5": {
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo ganador de Mundiales?",
+            "opciones": ["A) Alemania", "B) Brasil", "C) Italia", "D) Argentina"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue el máximo goleador de los Mundiales?",
+            "opciones": ["A) Ronaldo", "B) Miroslav Klose", "C) Pelé", "D) Mbappé"],
+            "respuesta": "B"
+        }
     },
     "Escalon6": {
-        "Pregunta1": {"pregunta": "¿Quien gano el mundial de 2006?"},
-        "Pregunta2": {"pregunta": "¿Quien fue elegido balon de oro de ese mundial?"}
+        "Pregunta1": {
+            "pregunta": "¿Quién ganó el Mundial de 2006?",
+            "opciones": ["A) Alemania", "B) Francia", "C) Italia", "D) Brasil"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue elegido Balón de Oro de ese Mundial?",
+            "opciones": ["A) Zinedine Zidane", "B) Pirlo", "C) Buffon", "D) Cannavaro"],
+            "respuesta": "A"
+        }
     },
     "Escalon7": {
-        "Pregunta1": {"pregunta": "¿Quien es el equipo Italiano que mas veces la gano?"},
-        "Pregunta2": {"pregunta": "¿Quien es el maximo goleador italiano?"}
+        "Pregunta1": {
+            "pregunta": "¿Qué equipo italiano ganó más veces la Champions?",
+            "opciones": ["A) Juventus", "B) AC Milan", "C) Inter", "D) Roma"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el máximo goleador italiano?",
+            "opciones": ["A) Roberto Baggio", "B) Francesco Totti", "C) Paolo Rossi", "D) Alessandro Del Piero"],
+            "respuesta": "B"
+        }
     },
     "Escalon8": {
-        "Pregunta1": {"pregunta": "¿Quien es el maximo goleador de la historia de la champions?"},
-        "Pregunta2": {"pregunta": "¿En que equipo estaba Cristiano Ronaldo cuando gano la champions en 2008?"}
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo goleador de la historia de la Champions?",
+            "opciones": ["A) Messi", "B) Cristiano Ronaldo", "C) Benzema", "D) Lewandowski"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿En qué equipo estaba Cristiano Ronaldo cuando ganó la Champions en 2008?",
+            "opciones": ["A) Real Madrid", "B) Juventus", "C) Sporting Lisboa", "D) Manchester United"],
+            "respuesta": "D"
+        }
     }
 }
-
 respuestas = {
     "Escalon1": {
         "Pregunta1": {"respuesta": "Independiente"},
@@ -67,5 +130,193 @@ respuestas = {
         "Pregunta2": {"respuesta": "Manchester United"}
     }
 }
+
+respuestas = {
+    "Escalon1": {
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo ganador de la historia de la Libertadores?",
+            "opciones": ["A) River Plate", "B) Boca Juniors", "C) Independiente", "D) Peñarol"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el segundo máximo ganador de la historia de la Libertadores?",
+            "opciones": ["A) Boca Juniors", "B) River Plate", "C) Nacional", "D) Flamengo"],
+            "respuesta": "A"
+        }
+    },
+    "Escalon2": {
+        "Pregunta1": {
+            "pregunta": "¿Qué equipo brasileño ganó más veces la Libertadores?",
+            "opciones": ["A) Santos", "B) Palmeiras", "C) Sao Paulo", "D) Flamengo"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el máximo goleador brasileño de la historia?",
+            "opciones": ["A) Ronaldo", "B) Zico", "C) Romario", "D) Pelé"],
+            "respuesta": "C"
+        }
+    },
+    "Escalon3": {
+        "Pregunta1": {
+            "pregunta": "¿Quién fue el primer campeón de la Libertadores?",
+            "opciones": ["A) Santos", "B) Peñarol", "C) Boca Juniors", "D) River Plate"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue el último campeón de la Libertadores (2025)?",
+            "opciones": ["A) River Plate", "B) Fluminense", "C) Botafogo", "D) Palmeiras"],
+            "respuesta": "C"
+        }
+    },
+    "Escalon4": {
+        "Pregunta1": {
+            "pregunta": "¿Cuántos mundiales tiene Holanda?",
+            "opciones": ["A) 0", "B) 1", "C) 3", "D) 2"],
+            "respuesta": "A"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Cuántas finales jugó Holanda en toda su historia?",
+            "opciones": ["A) 2", "B) 4", "C) 3", "D) 1"],
+            "respuesta": "C"
+        }
+    },
+"Escalon5": {
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo ganador de Mundiales?",
+            "opciones": ["A) Alemania", "B) Brasil", "C) Italia", "D) Argentina"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue el máximo goleador de los Mundiales?",
+            "opciones": ["A) Miroslav Klose", "B) Pele", "C) Ronaldo", "D) Mbappé"],
+            "respuesta": "B"
+        }
+    },
+    "Escalon6": {
+        "Pregunta1": {
+            "pregunta": "¿Quién ganó el Mundial de 2006?",
+            "opciones": ["A) Alemania", "B) Francia", "C) Italia", "D) Brasil"],
+            "respuesta": "C"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién fue elegido Balón de Oro de ese Mundial?",
+            "opciones": ["A) Zinedine Zidane", "B) Pirlo", "C) Buffon", "D) Cannavaro"],
+            "respuesta": "A"
+        }
+    },
+    "Escalon7": {
+        "Pregunta1": {
+            "pregunta": "¿Qué equipo italiano ganó más veces la Champions?",
+            "opciones": ["A) Juventus", "B) AC Milan", "C) Inter", "D) Roma"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿Quién es el máximo goleador italiano?",
+            "opciones": ["A) Roberto Baggio", "B) Francesco Totti", "C) Paolo Rossi", "D) Alessandro Del Piero"],
+            "respuesta": "B"
+        }
+    },
+    "Escalon8": {
+        "Pregunta1": {
+            "pregunta": "¿Quién es el máximo goleador de la historia de la Champions?",
+            "opciones": ["A) Messi", "B) Cristiano Ronaldo", "C) Benzema", "D) Lewandowski"],
+            "respuesta": "B"
+        },
+        "Pregunta2": {
+            "pregunta": "¿En qué equipo estaba Cristiano Ronaldo cuando ganó la Champions en 2008?",
+            "opciones": ["A) Real Madrid", "B) Juventus", "C) Sporting Lisboa", "D) Manchester United"],
+            "respuesta": "D"
+        }
+    }
+}
+respuestas = {
+    "Escalon1": {
+        "Pregunta1": {"respuesta": "C"},
+        "Pregunta2": {"respuesta": "A"}
+    },
+    "Escalon2": {
+        "Pregunta1": {"respuesta": "C"},
+        "Pregunta2": {"respuesta": "D"}
+    },
+    "Escalon3": {
+        "Pregunta1": {"respuesta": "B"},
+        "Pregunta2": {"respuesta": "C"}
+    },
+    "Escalon4": {
+        "Pregunta1": {"respuesta": "A"},
+        "Pregunta2": {"respuesta": "C"}
+    },
+    "Escalon5": {
+        "Pregunta1": {"respuesta": "B"},
+        "Pregunta2": {"respuesta": "A"}
+    },
+    "Escalon6": {
+        "Pregunta1": {"respuesta": "C"},
+        "Pregunta2": {"respuesta": "A"}
+    },
+    "Escalon7": {
+        "Pregunta1": {"respuesta": "B"},
+        "Pregunta2": {"respuesta": "A"}
+    },
+    "Escalon8": {
+        "Pregunta1": {"respuesta": "B"},
+        "Pregunta2": {"respuesta": "D"}
+    }
+}
+
+
+from PreguntasRespuestas import * 
+from colorama import * 
+
+print(f"{Fore.RED}Bienvenido al juego de los 8 escalones!!{Fore.RESET}")
+print("El juego cosnsiste en que el jugador debera responder 2 preguntas por escalon , al llegar al octavo escalon gana. \nSi en el mismo escalon el jugador erra 2 respuestas pierde.")
+print(f"Reglas:{Fore.BLUE}\n Hay 8 escalones \n 2 preguntas por escalon con 4 opciones \n Cada dos escalones puede utilizar un comodin \n El jugador tendra 2 vidas.{Fore.RESET}")
+
+escalones = 1 
+bandera = True
+respuestaUsuario = ""
+lista=["a","b","c","d"]
+opciones = (preguntas["Escalon1"]["Pregunta1"]["opciones"])
+pregunta = (preguntas["Escalon1"]["Pregunta1"]["pregunta"])
+
+
+
+def verificar_estado_juego(bandera , escalones , vidas):
+    if escalones >= 8  :
+        bandera = False
+        mensaje = print("Felicidades , ganó el juego ")
+    elif vidas == 0 :
+            mensaje = print("Se ha quedado sin vidas y el juego terminó")
+    return mensaje 
+
+def validar_opcion(lista , respuestaUsuario ):
+    bandera = False
+    while bandera == False:
+        respuestaUsuario = input("Ingrese una opción: ")
+        for i in range(len(lista)):
+            if respuestaUsuario == lista[i]:
+                bandera = True
+                break
+        if bandera == False:
+            print("Opción inválida. Intente nuevamente.")
+    return bandera
+
+
+def verificar_respuesta_correcta(respuestaUSuario ):
+    respuestasCorrectas = 0 
+    respuestaCorrecta = respuestas[ "Escalon1"]["Pregunta1"]["respuesta"]
+    if respuestaUSuario == respuestaCorrecta :
+        respuestasCorrectas += 1 
+        correcto = True
+    else:
+        correcto = False
+    return correcto 
+
+def juego():
+    print(f"La pregunta es{pregunta}\nLas opciones son :{opciones}")
+    validar_opcion(lista , respuestaUsuario)
+    
+
+juego()
 
 
